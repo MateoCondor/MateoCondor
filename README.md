@@ -29,7 +29,7 @@ Apasionado por el desarrollo de software, la resolución de problemas y el apren
 ### Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,html,css,c#,php" />
 </p>
 
 ### Frameworks y Tecnologías
@@ -41,7 +41,7 @@ Apasionado por el desarrollo de software, la resolución de problemas y el apren
 ### Bases de Datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 ### Herramientas
@@ -58,7 +58,7 @@ Apasionado por el desarrollo de software, la resolución de problemas y el apren
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=MateoCondor&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCondor&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCondor&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -83,28 +83,16 @@ Apasionado por el desarrollo de software, la resolución de problemas y el apren
 
 ---
 
-## 🌟 Objetivos
-
-* Contribuir a proyectos Open Source.
-* Participar en proyectos de impacto real.
-* Profundizar en desarrollo backend y arquitectura de sistemas.
-* Construir un portafolio sólido de proyectos.
-
----
-
 ## 📫 Conecta conmigo
 
 <p align="left">
   <a href="https://github.com/MateoCondor">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+  <a href="https://www.linkedin.com/in/mateo-condor-989a72289">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
----
-
-<div align="center">
-
-*"El aprendizaje continuo es la mejor inversión para cualquier desarrollador."*
-
-</div>
 
