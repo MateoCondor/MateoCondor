@@ -29,7 +29,7 @@ Apasionado por el desarrollo de software, la resolución de problemas y el apren
 ### Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php" />
 </p>
 
 ### Frameworks y Tecnologías
@@ -41,13 +41,13 @@ Apasionado por el desarrollo de software, la resolución de problemas y el apren
 ### Bases de Datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
 ### Herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" />
 </p>
 
 ---
