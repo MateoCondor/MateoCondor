@@ -29,7 +29,7 @@ Apasionado por el desarrollo de software, la resolución de problemas y el apren
 ### Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,html,css,c#,php" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,html,css,c#" />
 </p>
 
 ### Frameworks y Tecnologías
@@ -58,7 +58,7 @@ Apasionado por el desarrollo de software, la resolución de problemas y el apren
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=MateoCondor&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCondor&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCondor&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -90,7 +90,7 @@ Apasionado por el desarrollo de software, la resolución de problemas y el apren
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/mateo-condor-989a72289">
+  <a href="www.linkedin.com/in/mateo-cóndor-989a72289">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
